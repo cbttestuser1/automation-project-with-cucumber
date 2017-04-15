@@ -13,8 +13,8 @@ public class DemoTest {
 		System.out.println("a list of (nonnegative) exam scores.");
 		double sum;
 		int numberOfStudents;
-		double next;
 		
+		double next;
 		String answer;
 
 		do{
