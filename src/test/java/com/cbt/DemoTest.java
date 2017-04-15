@@ -6,7 +6,7 @@ public class DemoTest {
 		System.out.println("hello again");
 		System.out.println("Hello from LA,CA");
 		System.out.println("Hello from MD");
-		
+		String str;
 		
 		
 	}
