@@ -7,7 +7,7 @@ public class DemoTest {
 		System.out.println("Hello from LA,CA");
 		System.out.println("Hello from MD");
 		
-		
+		System.out.println("Why did you delete my for loop :(" );
 		
 	}
 }
