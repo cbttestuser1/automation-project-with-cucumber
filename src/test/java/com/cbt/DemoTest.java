@@ -44,7 +44,7 @@ public class DemoTest {
 
 
 		
-		
+		System.out.println("that loop which he deleted was interview question solution and you guys miss it hahaha");
 
 
 	}
