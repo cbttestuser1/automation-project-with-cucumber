@@ -14,6 +14,7 @@ public class DemoTest {
 		double sum;
 		int numberOfStudents;
 		double next;
+		
 		String answer;
 
 		do{
