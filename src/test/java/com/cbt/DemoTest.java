@@ -7,12 +7,6 @@ public class DemoTest {
 		System.out.println("Hello from LA,CA");
 		
 		
-		for(int num=0 ; num<=100; num++){
-			if(num%2==0){
-				System.out.println(num);
-			}
-		}
-		
 		
 	}
 }
