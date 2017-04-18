@@ -6,7 +6,6 @@ public class DemoTest {
 
 		System.out.println("Hello World");
 		System.out.println("Hello World");
-		lmnmlnl
-
+	
 	}
 }
